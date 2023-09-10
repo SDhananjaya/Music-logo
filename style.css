@@ -1,0 +1,31 @@
+html{
+  
+    background-image: url(https://e0.pxfuel.com/wallpapers/232/437/desktop-wallpaper-music-fire-tools-guitars.jpg);
+    background-repeat:no-repeat ;
+    background-size: cover;
+}
+.container{
+    display: flex;
+    justify-content: end;
+    
+}
+.music{
+   margin:-3px;
+   padding: 0;
+   box-shadow: 0px -1px 0px white;
+
+}
+
+.music button{
+   height: 33px;
+   width: 33px;
+   background: none;
+   border-color: blue;
+   border: none;
+}
+.music .mini{
+    background-color: rgb(253, 252, 252);
+}
+.music .mini:hover{
+    background-color: rgb(255, 68, 0);
+}
